@@ -1,1 +1,1 @@
-# automatedTtesting_project
+# automatedTesting_project
